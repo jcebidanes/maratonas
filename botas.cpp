@@ -1,6 +1,8 @@
 #include <iostream>
 using namespace std;
 
+// https://br.spoj.com/problems/BOTAS/
+
 int cnt[70][2];
 
 void limpa(){
