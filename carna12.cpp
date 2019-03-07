@@ -1,6 +1,7 @@
 #include <iostream>
 using namespace std;
 
+// https://br.spoj.com/problems/CARNA12/
 double s[10];
 
 void le_entrada(){
