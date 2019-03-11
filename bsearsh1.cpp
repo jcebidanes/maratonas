@@ -4,6 +4,8 @@ using std::cout;
 using std::cin;
 using std::endl;
 
+// https://www.spoj.com/problems/BSEARCH1/
+
 int n, q;
 int s[100009];
 
